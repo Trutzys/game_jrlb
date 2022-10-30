@@ -1,0 +1,24 @@
+->Controls
+
+        Moviment: 'w' - Go Up
+	           'a' - Go Left
+	           's' - Go Down
+	           'd' - Go Right
+
+        Other Controls: 'q' - To save game.		
+___________________________________________________________
+->Char id
+
+	'P' -> Player
+	'G'-> Enemies
+	'C'-> Enemy Commander
+	'O'-> Power orb.
+	'M'-> Medkit.
+	'b'-> Buiding.
+	'_'-> Free space.
+
+___________________________________________________________
+
+
+Press 'E' key to go back to the start menu.
+

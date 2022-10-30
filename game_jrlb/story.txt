@@ -1,0 +1,5 @@
+You're a knight, fighting off a horde of goblins to protect the people of the capital city of the Empire of Nivia.
+Sadly you are alone, and there is no hope for backup, your only mission is to kill as many goblins as possible in hope to 
+gain time until the people of the city evacuate safely.
+
+Press 'E' key to continue.
